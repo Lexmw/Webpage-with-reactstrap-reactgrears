@@ -2,7 +2,7 @@
   "name": "webpage-w-reactstrap",
   "version": "1.0.0",
   "description": "",
-  "main": "index.html",
+  "main": "index.js",
   "scripts": {
     "start": "node server.js",
     "build": "parcel build index.html",
