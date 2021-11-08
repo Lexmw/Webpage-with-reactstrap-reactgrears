@@ -35,7 +35,7 @@ const FormContainer = {
   padding: "25px",
 };
 
-export default (props) => {
+export default App = (props) => {
   return (
     <div id="container" style={Container}>
       <Navbar expand="md" dark="true" fixed="top" color="black">
